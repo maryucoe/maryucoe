@@ -12,6 +12,6 @@ Currently learning C# , Python , CSS. <img src="https://malibu.sfo3.cdn.digitalo
   <a href="https://i.pinimg.com/736x/11/a6/4e/11a64e3669f7fd6a8931c96184f04c31.jpg">
     <button>m</button>
   </a>
-<img src="https://64.media.tumblr.com/b20f3ae5f6fcc429ed986562bc45635e/tumblr_onsv5zJafI1u6i8k5o1_500.gif" width=500px height=200px>
+<img src="https://64.media.tumblr.com/b20f3ae5f6fcc429ed986562bc45635e/tumblr_onsv5zJafI1u6i8k5o1_500.gif" width=1000px height=200px>
 
 

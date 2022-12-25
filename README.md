@@ -1,4 +1,4 @@
-<center><b>WECLOME TO MY ACC ☘️☘️</b></center><img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-nahida/sticker_1.png?19c9118b64e41b7dbb81838878d341ee&d=200x200" width=10px height=10px>
+<center><b>WECLOME TO MY ACC ☘️☘️</b><img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-nahida/sticker_1.png?19c9118b64e41b7dbb81838878d341ee&d=200x200" width=10px height=10px></center>
 <hr>
 <h5><center>I'm pretty much new here
 Currently learning C# , Python , CSS. </center></h5>

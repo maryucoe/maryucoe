@@ -7,5 +7,6 @@ Currently learning C# , Python , CSS. </center></h5>
 
 <hr>
 <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" align="left" height=20px width=20px><img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" align="left" height=20px width=20px><img src="https://cdn.iconscout.com/icon/free/png-256/css-37-226088.png" height=30px width=30px>
+<hr>
 
 

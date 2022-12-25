@@ -16,9 +16,6 @@ Currently learning C# , Python , CSS. <img src="https://malibu.sfo3.cdn.digitalo
   
 
   
-  <a href="https://i.pinimg.com/736x/11/a6/4e/11a64e3669f7fd6a8931c96184f04c31.jpg">
-    <button>m</button>
-  </a>
-
+ 
 
 

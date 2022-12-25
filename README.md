@@ -8,7 +8,7 @@ Currently learning C# , Python , CSS. <img src="https://malibu.sfo3.cdn.digitalo
 
   
   
-  <img src="https://thumbs.gfycat.com/JauntyShortBarasinga-size_restricted.gif" width=50px height=50px >
+  <img src="https://thumbs.gfycat.com/JauntyShortBarasinga-size_restricted.gif" width=50px height=50px align="left-corner" >
   
   
   <img src="https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Icon_Emoji_Paimon%27s_Paintings_19_Nahida_3.png/revision/latest/scale-to-width-down/250?cb=20221124043005"  align="right" width=100px height=100px>

@@ -1,4 +1,4 @@
-<center><b>WECLOME TO MY ACC <img src=https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-nahida/sticker_1.png?19c9118b64e41b7dbb81838878d341ee&d=200x200 width=20px height=20px>☘️☘️</b></center>
+<center><b>WECLOME TO MY ACC <img src=https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-nahida/sticker_1.png?19c9118b64e41b7dbb81838878d341ee&d=200x200 width=30px height=30px></b></center>
 
 <hr>
 <h5><center>I'm pretty much new here

@@ -2,7 +2,7 @@
 <hr>
 
 <h2><center>
-Currently learning C# , Python , CSS. <img src="https://malibu.sfo3.cdn.digitaloceanspaces.com/2022/12/06/file_10421033_512x512.webp" width=50px height=50px> </center></h2>
+Currently learning C# , Python , C++. <img src="https://malibu.sfo3.cdn.digitaloceanspaces.com/2022/12/06/file_10421033_512x512.webp" width=50px height=50px> </center></h2>
 <hr>
 <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" height=22px width=20px align="left">
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height=22px width=20px align="left">

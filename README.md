@@ -9,6 +9,8 @@ Currently learning React , mysql. <img src="https://malibu.sfo3.cdn.digitalocean
  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height=22px width=20px align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height=22px width=20px align="left">
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" height=22px width=20px align="left">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" height=22px width=auto align="left">
+  
 
  
   

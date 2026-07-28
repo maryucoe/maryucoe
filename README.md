@@ -1,9 +1,9 @@
 <h1><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/four-leaf-clover_1f340.gif" width="30"/> Greetings!</h1>
 <hr>
 <br>
-**`Software engineer`**
+`Software Engineer`
 <br>
-hello! i'm a fullstack developer, building fully responsive websites and applications, looking for ways to enhance website experience and grasp the core of coding.
+Hello! I'm a fullstack developer, building fully responsive websites and applications, Looking for ways to enhance website experience and grasp the core of coding.
 <hr>
 <h2>Languages and tools</h2>
 

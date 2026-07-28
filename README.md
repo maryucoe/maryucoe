@@ -4,8 +4,7 @@
 <br>
 Hello! I'm a fullstack developer, building fully responsive websites and applications, Looking for ways to enhance website experience and grasp the core of coding.
 <hr>
-<h1>🛠️</h1>
-<h2>Languages and tools</h2>
+<h2>🛠️Languages and tools</h2>
 
 ![React](https://img.shields.io/badge/React-0091FF?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

@@ -14,7 +14,7 @@ Hello! I'm a fullstack developer, building fully responsive websites and applica
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white)
-![git](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white)
+![git](https://img.shields.io/badge/git-%23F03C2E?style=flat-square&logo=git&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 
  

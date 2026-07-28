@@ -4,7 +4,8 @@
 <br>
 Hello! I'm a fullstack developer, building fully responsive websites and applications, Looking for ways to enhance website experience and grasp the core of coding.
 <hr>
-<h2>🛠️Languages and tools</h2>
+
+### 🛠️ Languages and tools
 
 ![React](https://img.shields.io/badge/React-0091FF?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -17,8 +18,17 @@ Hello! I'm a fullstack developer, building fully responsive websites and applica
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white)
 ![git](https://img.shields.io/badge/git-%23F03C2E?style=flat-square&logo=git&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
+<hr>
 
- 
+### 🌱 Currently learning
+<ul>
+<li>Next.js</li>
+ <li>PostgreSQL</li>
+</ul>
+<hr>
+
+### 📫 Contact me
+ <a href="mailto:mariam.khaled.1022@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)</a>
 
   
  
